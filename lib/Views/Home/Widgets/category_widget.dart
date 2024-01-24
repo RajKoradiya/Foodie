@@ -13,7 +13,6 @@ class CategoryWidget extends StatelessWidget {
     super.key,
     this.category,
   });
-
   var category;
 
   @override
